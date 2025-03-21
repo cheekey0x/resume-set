@@ -1,0 +1,49 @@
+apple123!@#@
+
+freelancer
+1140744357
+blacksun!
+
+yegor.letov@ocrlabs.com
+
+
+About the Company
+Aragon builds secure and modular DAO infrastructure tooling, currently building the Aragon OSx DAO framework and no-code Aragon App. Aragon deployed the first DAO framework in 2017, which has powered the creation of over 7500 DAOs and secures over $18b in TVL for leading projects like Lido, Decentraland, API3, Aavegotchi, and NFTX.
+
+About the Job
+Aragon is a small team of people that spans a broad range of backgrounds, interests, and geographies. We're entrepreneurs and Ph.D.s, technologists and skeptics, troublemakers and problem solvers, who are building unstoppable tooling for the creation and management of Decentralized Autonomous Organizations (DAOs).
+
+Aragon has overseen the production of the leading smart contract framework for DAOs, with toolkits for developers to seamlessly integrate their own apps with DAO functionality.
+
+As frontend engineer at Aragon, you will join our App Team. Aragon App is our application to interface with the Aragon OSx smart contract framework - which is used for creating and managing the next generation of digital organizations.
+
+We will only consider candidates with both Next.js and web3 experience. You should be eager to help us prove the feasibility and value of decentralized governance.
+
+What do we expect from a Senior Frontend Engineer?
+
+You naturally translate user needs into production-ready code. You understand that there are DAO builders, voters, and degens on the other side, each with their own unique needs, and you are eager to seek feedback from them to better understand what they need to better participate in their DAO.
+You are comfortable taking ownership of a piece of our stack, establishing best practices, and becoming the “go-to” point of contact, while simultaneously mentoring more junior developers along the way.
+You are enthusiastic to coordinate with other domain specialists and departments, further deepening your knowledge of the ever-expanding technologies of web3.
+You are actively involved across the discovery and development pipeline, from collaborating with UX/UI designers and creating prototypes to implementation, documentation and guides, deployment, and live maintenance. At each stage of the pipeline, you are focused on high quality delivery.
+You are a natural collaborator. You use code reviews to better understand your team’s work, improve the quality of our commits, and learn something along the way. During daily standup, you know when you are needed and proactively solve your teammate’s problems.
+
+Minimum requirements
+
+Proven ability to deliver open source applications that deal with blockchain, cryptography, smart contracts, decentralized systems, or any related technology in the web3 ecosystem
+4+ years experience in one or more general purpose programming languages such as JS/TS
+Knowledge about the internals of JavaScript engines, browsers, and how to work with React.js
+Experience with well-known JavaScript frameworks (particularly Next.js)
+Knowledge of basic design principles, including layouts, aesthetics, and how to work with a UX team and with a design system
+Able to advocate and enforce good development practices on the team, including testing (unit, integration, e2e), clean code principles, documentation, etc.
+Experience working in agile environment, git flows, and are comfortable in the tools (e.g. Jira, Github)
+Excellent English communication - both written and oral
+You are able to attend quarterly offsites - usually located in or around Europe - to work in person with your team
+Passionate about the possibilities of decentralized autonomous organizations and the impacts they may have on how humans work together to solve problems
+
+Bonus skills
+
+Some experience with the other skills needed to be successful with our tech stack (Ethereum/EVM, HardHat/TypeChain, GraphQL/Subgraph, Cypress, etc.)
+Experience working on a project with a module or plugin system
+We value freedom and responsibility among our contributors. In practice, this means that we're a remote distributed organization that's flexible as to where you want to work and your schedule. We will trust you to accommodate and support your team, and communicate if you ever feel stretched thin. You will get all of the resources needed to be effective, whether its for setting up your remote work environment or a personal development budget. This role reports to Aragon X, a Swiss AG dedicated to advancing the Aragon Project. We are an Equal Opportunity Employer supporting a community of DAO creators, developers, and users experimenting with new forms of social coordination and governance.
+
+Must work 11am-5pm CET
